@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url('../font/Oswald-Regular.eot');
+    src: url('../font/Oswald-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../font/Oswald-Regular.woff2') format('woff2'),
+    url('../font/Oswald-Regular.woff') format('woff'),
+    url('../font/Oswald-Regular.ttf') format('truetype'),
+    url('../font/Oswald-Regular.svg#Oswald-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../font/Oswald-ExtraLight.eot');
+    src: url('../font/Oswald-ExtraLight.eot?#iefix') format('embedded-opentype'),
+    url('../font/Oswald-ExtraLight.woff2') format('woff2'),
+    url('../font/Oswald-ExtraLight.woff') format('woff'),
+    url('../font/Oswald-ExtraLight.ttf') format('truetype'),
+    url('../font/Oswald-ExtraLight.svg#Oswald-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../font/Oswald-Bold.eot');
+    src: url('../font/Oswald-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../font/Oswald-Bold.woff2') format('woff2'),
+    url('../font/Oswald-Bold.woff') format('woff'),
+    url('../font/Oswald-Bold.ttf') format('truetype'),
+    url('../font/Oswald-Bold.svg#Oswald-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
